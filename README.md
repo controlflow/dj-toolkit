@@ -1,2 +1,1 @@
-# dj-toolkit
-Just a collection of samples for DJing
+Just a collection of free samples, mostly claps and effects
